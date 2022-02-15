@@ -8,7 +8,7 @@ gsearching adalah suatu proses untuk mengumpulkan sejumlah informasi di dalam ko
 <h2 id="metode">metode</h2>
 2.metode pencarian terbagi 2
 yaitu:
-a. sequential searching
+a. sequential searching <br>
 b.binary searcing
 
 <h2 id="metode1">sequential seaarching</h2>
