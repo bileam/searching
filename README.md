@@ -1,5 +1,6 @@
-# searchin
-1.searching adalah suatu proses untuk mengumpulkan sejumlah informasi di dalam komputer dan kemudian mencari kembali informasi yang di perlukan secepat mungkin
+<a href="#searching">searhing</a>
+<h2 id="searchin">searching</h2>
+gsearching adalah suatu proses untuk mengumpulkan sejumlah informasi di dalam komputer dan kemudian mencari kembali informasi yang di perlukan secepat mungkin
 2.metode pencarian terbagi 2
 yaitu:
 a. sequential searching
