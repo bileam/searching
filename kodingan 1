@@ -1,0 +1,29 @@
+#include<stdio.h>
+#include<conio.h>
+#include<ctype.h>
+#include<stdlib.h>
+#include<stdbool.h>
+
+int main(){
+    int n,i,data[i],jumlah,cari;
+printf("mau berapa data yang akan di simpan:");
+scanf("%d",&n);
+printf("mau %d integers(s)\n",n);
+for (i=0;i<n;i++)
+scanf("%d",&data[i]);
+
+printf("data yang mau di cari");
+scanf("%d",&cari);
+for(i=0;i<n;i++){
+    if(data[i]==cari){
+        printf("angka %d ketemu,dan tersimpan di lokasi %d",cari,i+1);
+    jumlah;
+    //break;
+    }
+    if(jumlah==0)
+        printf("\nangka %d tidak di temukan\n",cari);
+        else
+            printf("angka %d ketemu,dan tampil sebnyk %d \n",cari,jumlah);
+}
+return 0;
+}
