@@ -1,7 +1,7 @@
 <li><a href="#searching">searhing</a></li>
 <li><a href="#metode">metode</a></li>
-<a href="#metode1">sequential seaarching</a>
-<a href="#metode2">binari searching</a>
+<li><a href="#metode1">sequential seaarching</a></li>
+<li><a href="#metode2">binari searching</a></li>
 <h2 id="searchin">searching</h2>
 gsearching adalah suatu proses untuk mengumpulkan sejumlah informasi di dalam komputer dan kemudian mencari kembali informasi yang di perlukan secepat mungkin
 
