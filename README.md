@@ -1,5 +1,5 @@
-<a href="#searching">searhing</a>
-<a href="#metode">metode</a>
+<li><a href="#searching">searhing</a></li>
+<li><a href="#metode">metode</a></li>
 <a href="#metode1">sequential seaarching</a>
 <a href="#metode2">binari searching</a>
 <h2 id="searchin">searching</h2>
@@ -11,10 +11,10 @@ yaitu:
 a. sequential searching
 b.binary searcing
 
-<h2 id="metode1">metode1</h2>
+<h2 id="metode1">sequential seaarching</h2>
 a.pencarian sequential seaarching sering juga di sebut pencarian linear dan merupakan pencarian yang sederhana.
 
-<h2 id="metode2">metode2</h2>
+<h2 id="metode2">binari searching</h2>
 b.binari searching
 memiliki syarat pencarian yaitu data sudah urut, jika data belum di urut maka pencarian tidak akan di lakukan.
 di dalam pencarian ini memimiliki prinsip sebagai  berikut:
